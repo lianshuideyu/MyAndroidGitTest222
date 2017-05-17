@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("版本1.0");
+        System.out.println("升级版本1.5");
     }
 }
