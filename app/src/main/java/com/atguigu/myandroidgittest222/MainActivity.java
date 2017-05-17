@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("版本1.0");
         System.out.println("升级版本1.5");
+        System.out.println("需要添加新功能了");
     }
 }
